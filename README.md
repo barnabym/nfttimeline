@@ -98,7 +98,7 @@ Cryptovoxels - first voxel NFT
 
 Cryptoavators - first cross metaverse avatar NFT 
 
-Cryptomotors - first cross metaverse car 
+Cryptomotors - first cross metaverse car NFT
 
 Matt Kane - first NFT sale at Christies
 
