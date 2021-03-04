@@ -100,6 +100,8 @@ Cryptoavators - first cross metaverse avatar NFT
 
 Cryptomotors - first cross metaverse car 
 
+Matt Kane - first NFT sale at Christies
+
 # 2021
 
 nftartboxes.io - pranksy - first art loot box NFT
@@ -126,7 +128,7 @@ Hash Masks - first dynamically nameable artworks on blockchain
 
 Beeple artwork resells for 6.6 million
 
-Beeple Christies Auction - https://www.christies.com/features/Monumental-collage-by-Beeple-is-first-purely-digital-artwork-NFT-to-come-to-auction-11510-7.aspx
+Beeple Christies Auction - predicted to be most expensive NFT - https://www.christies.com/features/Monumental-collage-by-Beeple-is-first-purely-digital-artwork-NFT-to-come-to-auction-11510-7.aspx
 
 3Lau - first music artist albums NFT sells for 11 million  - https://nft.3lau.com/#/auction
 
