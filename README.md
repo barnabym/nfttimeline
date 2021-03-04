@@ -124,7 +124,7 @@ B20 Token - first 3 world multiverse NFT gallery luanch
 
 Lady Phe introduces NFTs into clubhouse
 
-Mark Cuban discovers NFTs - boom
+Mark Cuban discovers NFTs 
 
 Linset Lohan and Mark Cuban mint stuff on rarible.com
 
