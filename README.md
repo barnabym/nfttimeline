@@ -1,4 +1,4 @@
-# NFT Timeline (focusing on music and art ones mainly)
+# NFT Timeline (focusing on music and art NFTs mainly)
 
 # 2012 
 
