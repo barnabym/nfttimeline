@@ -28,7 +28,7 @@ June 2017 — Cryptopunks - John Watkinson and Matt Hall - https://medium.com/@A
 
 October 2017 — CryptoKitties - Vancouver-based company called Axiom Zen - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
 
-Decentraland - sells land tokens? (not NFT nut where NFTs will be used subsequently)
+August 2017 - Decentraland - sells land tokens? (not NFT nut where NFTs will be used subsequently)
 
 # 2018
 
@@ -62,6 +62,10 @@ Decentraland - NFTs can be shown in world
 
 # 2021
 
+Mark Cuban discovers NFTs - boom
+
+Lady Phe introduces NFTs into clubhouse
+
 NFTX - NFTs as indexed funds
 
 Charged Particles - Similar to Cargo but different 
@@ -72,9 +76,13 @@ Eulerbeats - first generate your own music from NFTs assets linked to blockchain
 
 Hash Masks - first dynamically nameable artworks on blockchain 
 
+Beeple artwork resells for 6.6 million
+
 Beeple Christies Auction - https://www.christies.com/features/Monumental-collage-by-Beeple-is-first-purely-digital-artwork-NFT-to-come-to-auction-11510-7.aspx
 
-3Lau - first music artist album NFT - https://nft.3lau.com/#/auction
+3Lau - first music artist albums NFT sells for 11 million  - https://nft.3lau.com/#/auction
+
+Fre
 
 Kings of Leon - first band album NFT - https://twitter.com/i/events/1367140499291791360
 
