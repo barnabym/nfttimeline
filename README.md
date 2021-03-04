@@ -104,11 +104,9 @@ Matt Kane - first NFT sale at Christies
 
 # 2021
 
-nftartboxes.io - pranksy - first art loot box NFT
+nftartboxes.io - Pranksy - first art loot box NFT
 
-B20 - multiverse gallery luanch
-
-MegaCube
+B20 - first 3 world multiverse gallery luanch
 
 Lady Phe introduces NFTs into clubhouse
 
