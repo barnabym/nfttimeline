@@ -52,25 +52,29 @@ Spaced Painter - first 4K video NFT
 
 Artblocks.io - first generative art code on blockchain (not sure if thats right)
 
-Don't buy Meme - first NFT artworks as interest?
+Don't buy Meme - first NFT artworks as interest? - defi and art collide
 
-Niftx - fractionalised NFT ownership 
+Niftx - first fractionalised NFT ownership 
 
 Cargo - crypto currency stored in NFT (gems) - cargo.build
 
 Decentraland - NFTs can be shown in world 
 
-# 2021
+NFTX - first NFTs as indexed funds ? (maybe 2021)
 
-Mark Cuban discovers NFTs - boom
+# 2021
 
 Lady Phe introduces NFTs into clubhouse
 
-NFTX - NFTs as indexed funds
+Mark Cuban discovers NFTs - boom
 
-Charged Particles - Similar to Cargo but different 
+Linset Lohan and Mark Cuban mint stuff on rarible.com
 
-Aaachgochi - onchain NFT defi - https://aavegotchi.com/
+NBA topshots 
+
+Charged Particles - Similar to Cargo but different - defi meets art
+
+Aaachgochi - onchain NFT defi - https://aavegotchi.com/ - defi meets art
 
 Eulerbeats - first generate your own music from NFTs assets linked to blockchain (not sure if thats right). Also unique pricing model
 
@@ -82,7 +86,7 @@ Beeple Christies Auction - https://www.christies.com/features/Monumental-collage
 
 3Lau - first music artist albums NFT sells for 11 million  - https://nft.3lau.com/#/auction
 
-Fre
+FEWOCiOUS, an 18-year old in collab with a virtual sneaker brand RTFKT Studios - sells 3 million dollars worth of sneakers in 7 mins
 
 Kings of Leon - first band album NFT - https://twitter.com/i/events/1367140499291791360
 
