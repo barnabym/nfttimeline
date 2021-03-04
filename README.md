@@ -38,6 +38,8 @@ loads of stuff WIP
 
 Loads of stuff WIP
 
+Cryptovoxels - NFTs can be shown in world ?
+
 # 2020
 
 infinft - first fully onchain minting of NFTs (the artwork files and meta data are stored on chain as well an identifier)
@@ -48,9 +50,23 @@ Spaced Painter - first 4K video NFT
 
 Artblocks.io - first generative art code on blockchain (not sure if thats right)
 
+Don't buy Meme - first NFT artworks as interest?
+
+Niftx - fractionalised NFT ownership 
+
+Cargo - crypto currency stored in NFT (gems) - cargo.build
+
+Decentraland - NFTs can be shown in world 
+
 # 2021
 
-Eulerbeats - first generate your own music linked to blockchain (not sure if thats right)
+NFTX - NFTs as indexed funds
+
+Charged Particles - Similar to Cargo but different 
+
+Aaachgochi - onchain NFT defi - https://aavegotchi.com/
+
+Eulerbeats - first generate your own music from NFTs assets linked to blockchain (not sure if thats right). Also unique pricing model
 
 Hash Masks - first dynamically nameable artworks on blockchain 
 
