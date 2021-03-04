@@ -20,8 +20,6 @@ October 2016 — First Rare Pepes on Counterparty - https://medium.com/@Andrew.S
 
 DJ Pepe - First Audio NFT - https://twitter.com/ScrillaVentura/status/1364966663603552268
 
-Some other stuff WIP
-
 # 2017 
 
 March 2017 — Rare Pepes on Ethereum - Peperium “decentralized meme marketplace and trading card game (TCG) that allowed anyone to create memes that live eternally on IPFS and Ethereum.”  - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
@@ -30,9 +28,7 @@ June 2017 — Cryptopunks - Larva Labs (John Watkinson and Matt Hall) - https://
 
 October 2017 — CryptoKitties - Dapper Labs - https://ostachowski.com/about/what-is-crypto-art/history-of-crypto-art/
 
-August 2017 - Decentraland - sells land tokens? (not NFT nut where NFTs will be used subsequently)
-
-Loads of stuff WIP
+August 2017 - Decentraland - sells land tokens? (not NFT but where NFTs will be used subsequently)
 
 # 2018
 
