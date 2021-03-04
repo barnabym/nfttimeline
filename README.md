@@ -66,11 +66,37 @@ Niftx - first fractionalised NFT ownership
 
 Cargo - crypto currency stored in NFT (gems) - cargo.build
 
-Decentraland - NFTs can be shown in world - NFT galleries launch of main NFT platforms - Knownorigin.io, Superrare.io, Makersplace.com, Mintbase
+Decentraland - NFTs can be shown in world - NFT galleries launch of main NFT platforms - Knownorigin.io, Superrare.io, Makersplace.com, Mintbase (gensis art week)
 
 NFTX - first NFTs as indexed funds ? (maybe 2021)
 
 Whale - first social coin to get listed on coin gecko ?
+
+first gif NFT 
+
+first metaverse NFT fashion show
+
+Decentraland - 100xart show - first NFT metaverse multi gallery artshow
+
+first NFT wearables - cryptovoxels
+
+NFT trash art movement - 50 gallon toter - ROBNESS
+
+first video nft minted by platform ?
+
+first 3d file format support by platform ?
+
+Bronx zoo in cryptovvoxels - first shared land NFT (at least best known) 
+
+WIP - first NFT souvenirs of events in Metaverse
+
+Pak - first one colour NFT 
+
+Pak 'the title' offer to Christies - first performance art piece NFT 
+cryptovoxels - first voxel NFT 
+first cross metaverse avatar NFT - cryptoavators
+first cross metaverse car - cryptomotors
+first art loot box NFT - pranksy
 
 Loads of stuff WIP
 
@@ -88,7 +114,7 @@ Linset Lohan and Mark Cuban mint stuff on rarible.com
 
 NBA topshots 
 
-Charged Particles - Similar to Cargo but different - defi meets art
+Charged Particles - turn your NFT into a programmable basket of tokens even other NFTs - defi meets art
 
 Aaachgochi - onchain NFT defi - https://aavegotchi.com/ - defi meets art
 
