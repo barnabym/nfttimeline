@@ -50,6 +50,8 @@ Async.art - the world's first programmable artwork, First Supper NFT
 
 Spaced Painter - first 4K video NFT 
 
+Rendar.org - first street art NFT gallery opening
+
 Artblocks.io - first generative art code on blockchain (not sure if thats right)
 
 Don't buy Meme - first NFT artworks as interest? - defi and art collide
