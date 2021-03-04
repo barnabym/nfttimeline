@@ -58,11 +58,17 @@ Niftx - first fractionalised NFT ownership
 
 Cargo - crypto currency stored in NFT (gems) - cargo.build
 
-Decentraland - NFTs can be shown in world 
+Decentraland - NFTs can be shown in world - NFT galleries launch of main NFT platforms - Knownorigin.io, Superrare.io, Makersplace.com, Mintbase
 
 NFTX - first NFTs as indexed funds ? (maybe 2021)
 
+Whale - first social coin to get listed on coin gecko ?
+
 # 2021
+
+B20 - multiverse gallery luanch
+
+MegaCube
 
 Lady Phe introduces NFTs into clubhouse
 
