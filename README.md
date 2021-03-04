@@ -40,13 +40,19 @@ Loads of stuff WIP
 
 # 2020
 
-Loads of stuff WIP
+infinft - first fully onchain minting of NFTs (the artwork files and meta data are stored on chain as well an identifier)
 
-Async.art and the world's first programmable artwork, First Supper NFT
+Async.art - the world's first programmable artwork, First Supper NFT
 
-Spaced Painter - first 4K video NFT
+Spaced Painter - first 4K video NFT 
+
+Artblocks.io - first generative art code on blockchain (not sure if thats right)
 
 # 2021
+
+Eulerbeats - first generate your own music linked to blockchain (not sure if thats right)
+
+Hash Masks - first dynamically nameable artworks on blockchain 
 
 Beeple Christies Auction - https://www.christies.com/features/Monumental-collage-by-Beeple-is-first-purely-digital-artwork-NFT-to-come-to-auction-11510-7.aspx
 
@@ -54,7 +60,7 @@ Beeple Christies Auction - https://www.christies.com/features/Monumental-collage
 
 Kings of Leon - first band album NFT - https://twitter.com/i/events/1367140499291791360
 
-Artblocks.io
+
 
 
 
