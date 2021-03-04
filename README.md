@@ -60,11 +60,11 @@ Rendar.org - first street art NFT gallery opening
 
 Artblocks.io - first generative art code on blockchain (not sure if thats right)
 
-Don't buy Meme - first NFT artworks as interest? - defi and art collide
+Don't Buy Meme - first NFT artworks as interest? - defi and art collide
 
 Niftx - first fractionalised NFT ownership 
 
-Cargo - crypto currency stored in NFT (gems) - cargo.build
+Cargo.build - crypto currency stored in NFT (gems) - 
 
 Decentraland - NFTs can be shown in world - NFT galleries launch of main NFT platforms - Knownorigin.io, Superrare.io, Makersplace.com, Mintbase (gensis art week)
 
