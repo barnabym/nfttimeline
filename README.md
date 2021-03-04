@@ -104,6 +104,10 @@ Matt Kane - first NFT sale at Christies
 
 Hackatao 'Hack the Tao' - first NFT Art as a 3d voxel game
 
+(first Poetry as NFT ?)
+
+Bacca Arts - first graphic novel as NFT
+
 # 2021
 
 nftartboxes.io - Pranksy - first art loot box NFT
