@@ -102,6 +102,8 @@ Cryptomotors - first cross metaverse car
 
 Matt Kane - first NFT sale at Christies
 
+Hackatao 'Hack the Tao' - first NFT Art as a 3d voxel game
+
 # 2021
 
 nftartboxes.io - Pranksy - first art loot box NFT
