@@ -27,6 +27,25 @@ October 2017 — CryptoKitties - Vancouver-based company called Axiom Zen - http
 # 2018
 
 OpenSea, SuperRare and hundreds of other projects 
+loads of stuff WIP
+
+# 2019
+
+Loads of stuff WIP
+
+# 2020
+
+Loads of stuff WIP
+Async.art and the world's first programmable artwork, First Supper NFT
+Spaced Painter - first 4K video NFT
+
+# 2021
+
+Beeple Christies Auction - https://www.christies.com/features/Monumental-collage-by-Beeple-is-first-purely-digital-artwork-NFT-to-come-to-auction-11510-7.aspx
+3Lau - first music artist album NFT - https://nft.3lau.com/#/auction
+Kings of Leon - first band album NFT - https://twitter.com/i/events/1367140499291791360
+Artblocks.io
+
 
 
 
