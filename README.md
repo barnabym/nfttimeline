@@ -80,7 +80,7 @@ NFT wearables - cryptovoxels
 
 Decentraland - 100xart show - first NFT metaverse multi gallery artshow
 
-NFT trash art movement - 50 gallon toter - ROBNESS
+NFT trash art movement - 64 Gallon Toter  - ROBNESS
 
 (first video nft minted by platform ?)
 
