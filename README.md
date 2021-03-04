@@ -16,7 +16,7 @@ August 2016 - 'Force of Will' cards on Counterparty - https://medium.com/@Andrew
 
 # 2016
 
-October 2016 — Rare Pepes on Counterparty - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
+October 2016 — First Rare Pepes on Counterparty - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
 
 DJ Pepe - First Audio NFT - https://twitter.com/ScrillaVentura/status/1364966663603552268
 
@@ -26,9 +26,9 @@ Some other stuff WIP
 
 March 2017 — Rare Pepes on Ethereum - Peperium “decentralized meme marketplace and trading card game (TCG) that allowed anyone to create memes that live eternally on IPFS and Ethereum.”  - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
 
-June 2017 — Cryptopunks - John Watkinson and Matt Hall - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
+June 2017 — Cryptopunks - Larva Labs (John Watkinson and Matt Hall) - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
 
-October 2017 — CryptoKitties - Vancouver-based company called Axiom Zen - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
+October 2017 — CryptoKitties - Dapper Labs - https://ostachowski.com/about/what-is-crypto-art/history-of-crypto-art/
 
 August 2017 - Decentraland - sells land tokens? (not NFT nut where NFTs will be used subsequently)
 
@@ -40,7 +40,7 @@ OpenSea, SuperRare and hundreds of other projects
 
 April 2018 - Cryptovoxels - NFTs can be shown in world (need date for that) ?
 
-loads of stuff WIP
+January 2018 - Rare Art Festival and Auction of Rare Pepe - 38,500 dollars - https://www.vice.com/en/article/ev57p4/i-went-to-the-first-live-auction-for-rare-pepes-on-the-blockchain
 
 # 2019
 
@@ -107,6 +107,8 @@ Hackatao 'Hack the Tao' - first NFT Art as a 3d voxel game
 (first Poetry as NFT ?)
 
 Bacca Arts - first graphic novel as NFT
+
+Proof of Bueaty - first snapshot of ether blockchain generative NFT
 
 # 2021
 
