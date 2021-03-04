@@ -28,11 +28,11 @@ June 2017 — Cryptopunks - John Watkinson and Matt Hall - https://medium.com/@A
 
 October 2017 — CryptoKitties - Vancouver-based company called Axiom Zen - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
 
+Decentraland - sells land tokens? (not NFT nut where NFTs will be used subsequently)
+
 # 2018
 
 OpenSea, SuperRare and hundreds of other projects 
-
-Decentraland - sells land tokens? (not NFT)
 
 loads of stuff WIP
 
