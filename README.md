@@ -20,6 +20,8 @@ October 2016 — Rare Pepes on Counterparty - https://medium.com/@Andrew.Steinwo
 
 DJ Pepe - First Audio NFT - https://twitter.com/ScrillaVentura/status/1364966663603552268
 
+Some other stuff WIP
+
 # 2017 
 
 March 2017 — Rare Pepes on Ethereum - Peperium “decentralized meme marketplace and trading card game (TCG) that allowed anyone to create memes that live eternally on IPFS and Ethereum.”  - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
@@ -30,17 +32,19 @@ October 2017 — CryptoKitties - Vancouver-based company called Axiom Zen - http
 
 August 2017 - Decentraland - sells land tokens? (not NFT nut where NFTs will be used subsequently)
 
+Loads of stuff WIP
+
 # 2018
 
-OpenSea, SuperRare and hundreds of other projects 
+OpenSea, SuperRare and hundreds of other projects
+
+April 2018 - Cryptovoxels - NFTs can be shown in world (need date for that) ?
 
 loads of stuff WIP
 
 # 2019
 
 Loads of stuff WIP
-
-Cryptovoxels - NFTs can be shown in world ?
 
 # 2020
 
@@ -67,6 +71,8 @@ Decentraland - NFTs can be shown in world - NFT galleries launch of main NFT pla
 NFTX - first NFTs as indexed funds ? (maybe 2021)
 
 Whale - first social coin to get listed on coin gecko ?
+
+Loads of stuff WIP
 
 # 2021
 
