@@ -32,6 +32,8 @@ October 2017 — CryptoKitties - Vancouver-based company called Axiom Zen - http
 
 OpenSea, SuperRare and hundreds of other projects 
 
+Decentraland - sells land tokens? (not NFT)
+
 loads of stuff WIP
 
 # 2019
