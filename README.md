@@ -44,7 +44,9 @@ January 2018 - Rare Art Festival and Auction of Rare Pepe - 38,500 dollars - htt
 
 # 2019
 
-Loads of stuff WIP
+April 2019 - Autoglyphs - generative art on blockchain by Larva Labs 
+
+October 2019 - Rarible Market place
 
 # 2020
 
@@ -56,7 +58,9 @@ Spaced Painter - first 4K video NFT
 
 Pranksy Land - first NFT land and art sale combo
 
-Rendar.org - first street art NFT gallery opening
+March 2020 - Nifty Gateway
+
+August 2019 - Rendar Gallery - first street art NFT gallery opening
 
 Artblocks.io - first generative art code on blockchain (not sure if thats right)
 
@@ -112,9 +116,11 @@ Proof of Bueaty - first snapshot of ether blockchain generative NFT
 
 # 2021
 
+January 2021 - Launch of the Ethblock.art Generative Platform
+
 nftartboxes.io - Pranksy - first art loot box NFT
 
-B20 - first 3 world multiverse gallery luanch
+B20 Token - first 3 world multiverse NFT gallery luanch
 
 Lady Phe introduces NFTs into clubhouse
 
