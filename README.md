@@ -134,6 +134,8 @@ Proof of Beauty - first snapshot of ether blockchain  as seed for generative art
 
 January 2021 - Launch of the Ethblock.art Generative Platform
 
+# February - BOOM!!! world discovers NFTs - see google trends - https://trends.google.com/trends/explore?q=NFT
+
 DigitalaX - https://www.digitalax.xyz/homepage - first NFT fashion operating system. New format for fashion that allows other NFTs to be associated with it. first NFT fashion item that allows staking
 
 nftartboxes.io - Pranksy - first art loot box NFT
@@ -169,6 +171,8 @@ Kings of Leon - first band album NFT - https://twitter.com/i/events/136714049929
 Paras.id - NFTs on near blockchain
 
 19th March - feralfile.com - first type of NFT that hashes artwork with details of collector and artwork?
+
+NFTs on BBC News
 
 
 # References
