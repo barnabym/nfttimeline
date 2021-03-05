@@ -48,6 +48,8 @@ October 2019 - Rarible NFT Market place
 
 # 2020
 
+JOY - created NFT with multi image and 3d file formats that will be extended to work in more Metaverse and AR locations
+
 Valuables - https://v.cent.co/ - first NFTs of tweets
 
 Unisocks - NFT for socks - more to story
