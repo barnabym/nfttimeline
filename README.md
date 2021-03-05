@@ -108,7 +108,7 @@ Hackatao 'Hack the Tao' - first NFT Art as a 3d voxel game
 
 Bacca Arts - first graphic novel as NFT
 
-Proof of Bueaty - first snapshot of ether blockchain generative NFT
+Proof of beauty - first snapshot of ether blockchain generative NFT
 
 # 2021
 
