@@ -153,6 +153,12 @@ FEWOCiOUS, an 18-year old in collab with a virtual sneaker brand RTFKT Studios -
 Kings of Leon - first band album NFT - https://twitter.com/i/events/1367140499291791360
 
 
+# References
+
+https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
+
+https://ostachowski.com/about/what-is-crypto-art/history-of-crypto-art/
+
 
 
 
