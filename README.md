@@ -30,6 +30,8 @@ October 2017 — CryptoKitties - Dapper Labs - https://ostachowski.com/about/wha
 
 August 2017 - Decentraland - sells land tokens? (not NFT but where NFTs will be used subsequently)
 
+Dada.nyc - ?
+
 # 2018
 
 OpenSea, SuperRare and hundreds of other projects
