@@ -166,7 +166,7 @@ Beeple Christies Auction - predicted to be most expensive NFT - https://www.chri
 
 FEWOCiOUS, an 18-year old in collab with a virtual sneaker brand RTFKT Studios - sells 3 million dollars worth of sneakers in 7 mins
 
-Kings of Leon - first band album NFT - https://twitter.com/i/events/1367140499291791360
+Kings of Leon - first band album NFT - https://twitter.com/i/events/1367140499291791360 - Well actually no looks like at least one person beat them to it https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/65577843718709725647597475672696065348518179342011629558697758562726870777956
 
 Paras.id - NFTs on near blockchain
 
