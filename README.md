@@ -58,6 +58,12 @@ Saint Fame - first internet owned fashion house producing NFTs
 
 Near cat - ?
 
+Wax blockchain NFTs - when ?
+
+Zilliqa blockchain NFT - when ?
+
+Hive NFTs - when ?
+
 infinft - first fully onchain minting of NFTs (the artwork files and meta data are stored on chain as well an identifier)
 
 Async.art - the world's first programmable artwork, First Supper NFT
@@ -138,7 +144,7 @@ Mark Cuban discovers NFTs
 
 Linset Lohan and Mark Cuban mint stuff on rarible.com
 
-NBA topshots 
+NBA topshots - first FLOW blockchain NFTs
 
 Charged Particles - turn your NFT into a programmable basket of tokens even other NFTs - defi meets art
 
@@ -158,6 +164,10 @@ FEWOCiOUS, an 18-year old in collab with a virtual sneaker brand RTFKT Studios -
 
 Kings of Leon - first band album NFT - https://twitter.com/i/events/1367140499291791360
 
+Paras.id - NFTs on near blockchain
+
+19th March - feralfile.com - first type of NFT that hashes artwork with details of collector and artwork?
+
 
 # References
 
@@ -165,7 +175,7 @@ https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f36
 
 https://ostachowski.com/about/what-is-crypto-art/history-of-crypto-art/
 
-
+http://www.artnome.com
 
 
 
