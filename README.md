@@ -52,9 +52,9 @@ Valuables - https://v.cent.co/ - first NFTs of tweets
 
 Unisocks - NFT for socks - more to story
 
-$TAPE - ?
+$TAPE - RAC sold first NFT for a cassette tape (on Zora) (I think)
 
-Saint Fame - ?
+Saint Fame - first internet owned fashion house producing NFTs
 
 Near cat - ?
 
@@ -125,6 +125,8 @@ Proof of Beauty - first snapshot of ether blockchain generative NFT
 # 2021
 
 January 2021 - Launch of the Ethblock.art Generative Platform
+
+DigitalaX - https://www.digitalax.xyz/homepage - first NFT fashion operating system. New format for fashion that allows other NFTs to be associated with it. first NFT fashion item that allows staking
 
 nftartboxes.io - Pranksy - first art loot box NFT
 
