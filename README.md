@@ -46,6 +46,8 @@ October 2019 - Rarible NFT Market place
 
 # 2020
 
+Valuables - https://v.cent.co/ - first NFTs of tweets
+
 Unisocks - NFT for socks - more to story
 
 $TAPE - ?
