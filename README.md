@@ -1,4 +1,6 @@
-# NFT Timeline (focusing on music and art NFTs mainly)
+# NFT (Non Funglible Tokens) Timeline 
+
+This website is focused on NFTs evolution and first uses of NFTs in relation to Art and Music. So I'm not going to  mentioning crypto art pioneers like @cryptograffiti, @coin_artist and others unless linked to novel or first time NFT use. The information is evolving and there maybe mistakes as I'm still working on it.
 
 # 2012 
 
@@ -12,19 +14,19 @@ KMC - First image NFTs - https://twitter.com/mccoyspace/status/13660868477645824
 
 Trading card game and meme trading on Counterparty - founded by Robert Dermody, Adam Krellenstein, and Evan Wagner - "a peer-to-peer financial platform and distributed, open-source Internet protocol built on top of the Bitcoin blockchain" - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
 
-Monegraph - Monetized Graphics (NFT could have been called this although NFT is a bigger concept as covers more than art) for a created image assigned a blockchain key and value they can store in a NameCoin wallet - https://techcrunch.com/2014/05/09/monegraph/?guccounter=1&guce_referrer=aHR0cHM6Ly90LmNvLw&guce_referrer_sig=AQAAANYmc1eeZjuuRFALotY6wZcKFkEs-MwiLkUbCbYPK8RDUtqNk9HWhd9VH23kcGtEe7ZZujzA6aadvOA2dRwUM2n9lkeOvSzWPH9Z5lFdSXq6pxEbCO6vFl-7-8Nc04TFtruj2FNyM7obRdOWP1_0XgUw8vucvN4N4HuEUw6P4Y9-
+Monegraph - Monetized Graphics (NFT could have been called this although NFT is a bigger concept as covers more than art) for a created image was assigned a blockchain key and value storable in a NameCoin wallet - https://techcrunch.com/2014/05/09/monegraph/?guccounter=1&guce_referrer=aHR0cHM6Ly90LmNvLw&guce_referrer_sig=AQAAANYmc1eeZjuuRFALotY6wZcKFkEs-MwiLkUbCbYPK8RDUtqNk9HWhd9VH23kcGtEe7ZZujzA6aadvOA2dRwUM2n9lkeOvSzWPH9Z5lFdSXq6pxEbCO6vFl-7-8Nc04TFtruj2FNyM7obRdOWP1_0XgUw8vucvN4N4HuEUw6P4Y9-
 
 # 2015
 
-April 2016 - Spells of Gensis on Counterparty - game with in game currency bitcrystals - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
+April 2016 - Spells of Gensis on Counterparty - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
 
 August 2016 - 'Force of Will' cards on Counterparty - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
 
 # 2016
 
-October 2016 — First Rare Pepes on Counterparty - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
+October 2016 — first Rare Pepes on Counterparty - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
 
-DJ Pepe - First Audio NFT - https://twitter.com/ScrillaVentura/status/1364966663603552268
+DJ Pepe - first Audio NFT - https://twitter.com/ScrillaVentura/status/1364966663603552268
 
 # 2017 
 
@@ -150,7 +152,7 @@ nftartboxes.io - Pranksy - first art loot box NFT
 
 B20 Token - first 3 world multiverse NFT gallery luanch
 
-Lady Phe introduces NFTs into clubhouse
+Lady Pheonix (Lady Phe) - introduces NFTs into clubhouse and coins phrase 'audio reactive NFTs'
 
 Mark Cuban discovers NFTs 
 
