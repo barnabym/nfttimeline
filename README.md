@@ -52,6 +52,8 @@ April 2019 - Autoglyphs - generative NFT art on blockchain by Larva Labs
 
 October 2019 - Rarible NFT Market place
 
+April 2019 - Editional - first mobile app for minting NFTs
+
 # 2020
 
 JOY - created NFT with multi image and 3d file formats that will be extended to work in more Metaverse and AR locations
