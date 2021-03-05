@@ -36,7 +36,7 @@ OpenSea, SuperRare and hundreds of other projects
 
 April 2018 - Cryptovoxels - NFTs can be shown in world (need date for that) ?
 
-January 2018 - Rare Art Festival and Auction of Rare Pepe - 38,500 dollars - https://www.vice.com/en/article/ev57p4/i-went-to-the-first-live-auction-for-rare-pepes-on-the-blockchain
+January 2018 - Rare Art Festival and Auction of Rare Pepe - sold for 38,500 dollars - first major NFT sale - https://www.vice.com/en/article/ev57p4/i-went-to-the-first-live-auction-for-rare-pepes-on-the-blockchain
 
 # 2019
 
