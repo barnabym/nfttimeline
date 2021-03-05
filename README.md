@@ -4,6 +4,10 @@
 
 Colored coins - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
 
+# 2013
+
+KMC - First image NFTs - https://twitter.com/mccoyspace/status/1366086847764582401 ?
+
 # 2014
 
 Trading card game and meme trading on Counterparty - founded by Robert Dermody, Adam Krellenstein, and Evan Wagner - "a peer-to-peer financial platform and distributed, open-source Internet protocol built on top of the Bitcoin blockchain" - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
