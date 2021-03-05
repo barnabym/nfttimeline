@@ -40,9 +40,9 @@ January 2018 - Rare Art Festival and Auction of Rare Pepe - sold for 38,500 doll
 
 # 2019
 
-April 2019 - Autoglyphs - generative art on blockchain by Larva Labs 
+April 2019 - Autoglyphs - generative NFT art on blockchain by Larva Labs 
 
-October 2019 - Rarible Market place
+October 2019 - Rarible NFT Market place
 
 # 2020
 
@@ -52,11 +52,11 @@ Async.art - the world's first programmable artwork, First Supper NFT
 
 Spaced Painter - first 4K video NFT 
 
-Pranksy Land - first NFT land and art sale combo
+Pranksy Land - first NFT land and NFT art sale combo
 
-March 2020 - Nifty Gateway
+March 2020 - Nifty Gateway - first NFT marketplace allowing fiat purchases (not sure about this?)
 
-August 2019 - Rendar Gallery - first street art NFT gallery opening
+August 2019 - Rendar Gallery - first street art NFT gallery opening in a Metaverse
 
 Artblocks.io - first generative art code on blockchain (not sure if thats right)
 
