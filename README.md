@@ -46,6 +46,14 @@ October 2019 - Rarible NFT Market place
 
 # 2020
 
+Unisocks - NFT for socks - more to story
+
+$TAPE - ?
+
+Saint Fame - ?
+
+Near cat - ?
+
 infinft - first fully onchain minting of NFTs (the artwork files and meta data are stored on chain as well an identifier)
 
 Async.art - the world's first programmable artwork, First Supper NFT
