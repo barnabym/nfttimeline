@@ -44,6 +44,8 @@ Dada.nyc - ?
 
 OpenSea, SuperRare and hundreds of other projects
 
+March 2018 - Open Zeppelin - NFT standard - ERC721 full implementation - https://github.com/OpenZeppelin/openzeppelin-contracts/pull/803 
+
 April 2018 - Cryptovoxels - NFTs can be shown in world (need date for that) ?
 
 January 2018 - Rare Art Festival and Auction of Homer Rare Pepe - sold for 38,500 dollars - first major NFT sale - https://www.vice.com/en/article/ev57p4/i-went-to-the-first-live-auction-for-rare-pepes-on-the-blockchain
