@@ -90,7 +90,7 @@ Zilliqa blockchain NFT - when ?
 
 Hive NFTs - when ?
 
-Infinft - first fully onchain minting of NFTs (the artwork files and meta data are stored on chain as well an identifier)
+August 2020 - Infinft - first fully onchain minting of NFTs (the artwork files and meta data are stored on chain as well an identifier) - https://nft.substack.com/p/to-infinity-and-beyond-inside-the
 
 Async.art - the world's first programmable artwork, First Supper NFT
 
