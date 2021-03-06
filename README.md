@@ -50,6 +50,8 @@ April 2018 - Cryptovoxels - NFTs can be shown in world (need date for that) ?
 
 July 2018 - The first NFT conference 
 
+
+
 OpenSea, SuperRare.io, Makersplace.com, KnownOrigin.io and loads of other NFT projects
 
 # 2019
@@ -57,6 +59,8 @@ OpenSea, SuperRare.io, Makersplace.com, KnownOrigin.io and loads of other NFT pr
 April 2019 - Autoglyphs - generative NFT art on blockchain by Larva Labs 
 
 April 2019 - Editional - first mobile app for minting NFTs
+
+August 2019 - clovers.network - first icon NFTs ?
 
 October 2019 - Rarible NFT Market place
 
