@@ -90,7 +90,7 @@ Zilliqa blockchain NFT - when ?
 
 Hive NFTs - when ?
 
-infinft - first fully onchain minting of NFTs (the artwork files and meta data are stored on chain as well an identifier)
+Infinft - first fully onchain minting of NFTs (the artwork files and meta data are stored on chain as well an identifier)
 
 Async.art - the world's first programmable artwork, First Supper NFT
 
@@ -134,7 +134,7 @@ Bronx zoo in cryptovvoxels - first shared land NFT (at least best known)
 
 WIP - first NFT souvenirs of events in Metaverse
 
-Pak - 'red pixel' - first one pixel one colour NFT - https://twitter.com/muratpak/status/1285799829990453250?lang=en
+Pak - 'red' - first one pixel one colour NFT - https://twitter.com/muratpak/status/1285799829990453250?lang=en
 
 Pak - 'the title' offer to Christies - first performance art piece NFT - https://twitter.com/Sothebys/status/1346559302308405249?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1346559302308405249%7Ctwgr%5E%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fwww.one37pm.com%2Fgrind%2Fmoney%2Fmeet-murat-pak
 
