@@ -25,11 +25,13 @@ Monegraph - Monetized Graphics (NFT could have been called this although NFT is 
 
 # 2015
 
+(probably missing something here)
+
+# 2016
+
 April 2016 - Spells of Gensis on Counterparty (level 2 'NFT' app on Bitcoin) - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
 
 August 2016 - 'Force of Will' cards on Counterparty - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
-
-# 2016
 
 October 2016 — first Rare Pepes on Counterparty - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
 
