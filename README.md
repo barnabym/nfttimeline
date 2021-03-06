@@ -42,23 +42,23 @@ Dada.nyc - ?
 
 # 2018
 
-OpenSea, SuperRare and hundreds of other projects
+January 2018 - Rare Art Festival and Auction of Homer Rare Pepe - sold for 38,500 dollars - first major NFT sale - https://www.vice.com/en/article/ev57p4/i-went-to-the-first-live-auction-for-rare-pepes-on-the-blockchain
 
 March 2018 - Open Zeppelin - NFT standard - ERC721 full implementation - https://github.com/OpenZeppelin/openzeppelin-contracts/pull/803 
 
 April 2018 - Cryptovoxels - NFTs can be shown in world (need date for that) ?
 
-January 2018 - Rare Art Festival and Auction of Homer Rare Pepe - sold for 38,500 dollars - first major NFT sale - https://www.vice.com/en/article/ev57p4/i-went-to-the-first-live-auction-for-rare-pepes-on-the-blockchain
-
 July 2018 - The first NFT conference 
+
+OpenSea, SuperRare and hundreds of other projects
 
 # 2019
 
 April 2019 - Autoglyphs - generative NFT art on blockchain by Larva Labs 
 
-October 2019 - Rarible NFT Market place
-
 April 2019 - Editional - first mobile app for minting NFTs
+
+October 2019 - Rarible NFT Market place
 
 # 2020
 
