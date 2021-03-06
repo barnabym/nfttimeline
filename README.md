@@ -198,6 +198,8 @@ Murall - https://murall.art/ - first collabrative mural NFT platform
 
 19th March - feralfile.com - first type of NFT that hashes artwork with details of collector and artwork?
 
+Most expensive NFT Tweet - https://v.cent.co/tweet/20
+
 # References
 
 https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
