@@ -50,7 +50,7 @@ April 2018 - Cryptovoxels - NFTs can be shown in world (need date for that) ?
 
 July 2018 - The first NFT conference 
 
-OpenSea, SuperRare and hundreds of other projects
+OpenSea, SuperRare.io, KnownOrigin.io and loads of other NFT projects
 
 # 2019
 
