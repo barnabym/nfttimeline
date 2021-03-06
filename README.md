@@ -84,11 +84,11 @@ $TAPE - RAC sold first NFT for a cassette tape (on Zora) (I think)
 
 Saint Fame - first internet owned fashion house producing NFTs
 
-Wax blockchain NFTs - when ?
-
-Zilliqa blockchain NFT - when ?
-
 June 2020 - NFT Showroom - https://nftshowroom.com/faq - Hive NFTs 
+
+August 2020 - Atomic Assets’ NFT Creator - Wax blockchain NFTs 
+
+Mintable.app - first Zilliqa blockchain NFT marketplace - https://blog.zilliqa.com/mintables-nft-marketplace-on-zilliqa-now-open-for-business-4bbafd1d4ba9
 
 August 2020 - Infinft - first fully onchain minting of NFTs (the artwork files and meta data are stored on chain as well an identifier) - https://nft.substack.com/p/to-infinity-and-beyond-inside-the
 
