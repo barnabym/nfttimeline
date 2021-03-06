@@ -8,7 +8,7 @@ Colored coins - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible
 
 # 2013
 
-KMC - mccoyspace - First image NFTs - https://twitter.com/mccoyspace/status/1366086847764582401 ? Claims to have made first NFT.
+KMC - mccoyspace - first image NFTs - https://twitter.com/mccoyspace/status/1366086847764582401 ? Claims to have made first NFT.
 
 # 2014
 
