@@ -62,6 +62,8 @@ October 2019 - Rarible NFT Market place
 
 # 2020
 
+89 sec Atomized (2018) by Eve Sussman, The Old Testament by Tommy Hartung. https://snark.art/artworks - Artwork broken into NFTs
+
 JOY - created NFT with multi image and 3d file formats that will be extended to work in more Metaverse and AR locations
 
 Valuables - https://v.cent.co/ - first NFTs of tweets
