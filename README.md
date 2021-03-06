@@ -72,7 +72,7 @@ October 2019 - Rarible NFT Market place
 
 Jonathan Mann - @songadaymann - first song NFT on ether blockchain - https://superrare.co/artwork/b-u-i-d-l-871 - https://twitter.com/songadaymann/status/1367873178421321738
 
-89 sec Atomized (2018) by Eve Sussman, The Old Testament by Tommy Hartung. https://snark.art/artworks - Artwork broken into NFTs
+89 sec Atomized (2018) by Eve Sussman on Snark.art - https://snark.art/artworks - Artwork broken into NFTs
 
 JOY - created NFT with multi image and 3d file formats that will be extended to work in more Metaverse and AR locations
 
@@ -160,7 +160,7 @@ January 2021 - Launch of the Ethblock.art Generative Platform
 
 DigitalaX - https://www.digitalax.xyz/homepage - first NFT fashion operating system. New format for fashion that allows other NFTs to be associated with it. first NFT fashion item that allows staking
 
-nftartboxes.io - Pranksy - first art loot box NFT
+nftartboxes.io - Pranksy - first art loot box NFT ?
 
 B20 Token - first 3 world multiverse NFT gallery luanch
 
@@ -196,7 +196,7 @@ Paras.id - NFTs on near blockchain
 
 Murall - https://murall.art/ - first collabrative mural NFT platform
 
-19th March - feralfile.com - first type of NFT that hashes artwork with details of collector and artwork?
+19th March - feralfile.com - first type of NFT that hashes artwork with details of collector and artwork???
 
 Most expensive NFT Tweet - by Jack Dorsey - https://v.cent.co/tweet/20
 
