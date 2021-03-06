@@ -8,7 +8,7 @@ Colored coins - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible
 
 # 2013
 
-KMC - First image NFTs - https://twitter.com/mccoyspace/status/1366086847764582401 ? Claims to have made first NFT.
+KMC - mccoyspace - First image NFTs - https://twitter.com/mccoyspace/status/1366086847764582401 ? Claims to have made first NFT.
 
 # 2014
 
@@ -17,6 +17,8 @@ Trading card game and meme trading on Counterparty - founded by Robert Dermody, 
 Monegraph - Monetized Graphics (NFT could have been called this although NFT is a bigger concept as covers more than art) for a created image was assigned a blockchain key and value storable in a NameCoin wallet - https://techcrunch.com/2014/05/09/monegraph/?guccounter=1&guce_referrer=aHR0cHM6Ly90LmNvLw&guce_referrer_sig=AQAAANYmc1eeZjuuRFALotY6wZcKFkEs-MwiLkUbCbYPK8RDUtqNk9HWhd9VH23kcGtEe7ZZujzA6aadvOA2dRwUM2n9lkeOvSzWPH9Z5lFdSXq6pxEbCO6vFl-7-8Nc04TFtruj2FNyM7obRdOWP1_0XgUw8vucvN4N4HuEUw6P4Y9-
 
 # 2015
+
+Counterparty is level 2 'NFT' app on Bitcoin
 
 April 2016 - Spells of Gensis on Counterparty - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
 
@@ -81,8 +83,6 @@ Unisocks - NFT for socks - more to story
 $TAPE - RAC sold first NFT for a cassette tape (on Zora) (I think)
 
 Saint Fame - first internet owned fashion house producing NFTs
-
-Near cat - ?
 
 Wax blockchain NFTs - when ?
 
