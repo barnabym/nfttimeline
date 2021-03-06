@@ -88,7 +88,7 @@ Wax blockchain NFTs - when ?
 
 Zilliqa blockchain NFT - when ?
 
-Hive NFTs - when ?
+June 2020 - NFT Showroom - https://nftshowroom.com/faq - Hive NFTs 
 
 August 2020 - Infinft - first fully onchain minting of NFTs (the artwork files and meta data are stored on chain as well an identifier) - https://nft.substack.com/p/to-infinity-and-beyond-inside-the
 
@@ -118,7 +118,7 @@ Whale - first social coin to get listed on coin gecko ?
 
 (first gif NFT ?)
 
-DCL metaverse NFT fashion show 
+Decentraland - first metaverse NFT fashion show 
 
 NFT wearables - cryptovoxels
 
@@ -174,6 +174,8 @@ Linset Lohan and Mark Cuban mint stuff on rarible.com
 
 NBA topshots - first FLOW blockchain NFTs
 
+Nyan Cat - after 'the duck song' the first Youtube legends NFT - sells for alot of money
+
 Charged Particles - turn your NFT into a programmable basket of tokens even other NFTs - defi meets art
 
 Aaachgochi - onchain NFT defi - https://aavegotchi.com/ - defi meets art
@@ -198,7 +200,7 @@ Murall - https://murall.art/ - first collabrative mural NFT platform
 
 19th March - feralfile.com - first type of NFT that hashes artwork with details of collector and artwork?
 
-Most expensive NFT Tweet - https://v.cent.co/tweet/20
+Most expensive NFT Tweet - by Jack Dorsey - https://v.cent.co/tweet/20
 
 # References
 
@@ -206,7 +208,7 @@ https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f36
 
 https://ostachowski.com/about/what-is-crypto-art/history-of-crypto-art/
 
-http://www.artnome.com
+https://www.artnome.com
 
-
+https://www.twitter.com :)
 
