@@ -48,6 +48,8 @@ April 2018 - Cryptovoxels - NFTs can be shown in world (need date for that) ?
 
 January 2018 - Rare Art Festival and Auction of Homer Rare Pepe - sold for 38,500 dollars - first major NFT sale - https://www.vice.com/en/article/ev57p4/i-went-to-the-first-live-auction-for-rare-pepes-on-the-blockchain
 
+July 2018 - The first NFT conference 
+
 # 2019
 
 April 2019 - Autoglyphs - generative NFT art on blockchain by Larva Labs 
@@ -179,6 +181,8 @@ FEWOCiOUS, an 18-year old in collab with a virtual sneaker brand RTFKT Studios -
 Kings of Leon - first band album NFT - https://twitter.com/i/events/1367140499291791360 - Well actually no looks like at least one person beat them to it https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/65577843718709725647597475672696065348518179342011629558697758562726870777956
 
 Paras.id - NFTs on near blockchain
+
+Murall - https://murall.art/ - first collabrative mural NFT platform
 
 19th March - feralfile.com - first type of NFT that hashes artwork with details of collector and artwork?
 
