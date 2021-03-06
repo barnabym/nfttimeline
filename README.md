@@ -26,9 +26,7 @@ August 2016 - 'Force of Will' cards on Counterparty - https://medium.com/@Andrew
 
 October 2016 — first Rare Pepes on Counterparty - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
 
-DJ Pepe - first Audio NFT - https://twitter.com/ScrillaVentura/status/1364966663603552268 ? 
-
-RareScrilla.com - first NFT album - https://rarescrilla.bandcamp.com/album/gorilla-glue-mixtape ?
+DJ Pepe - RareScrilla.com @ScrillaVentura - first Audio NFT - https://twitter.com/ScrillaVentura/status/1364966663603552268 ? 
 
 # 2017 
 
@@ -116,9 +114,7 @@ Decentraland - NFTs can be shown in world - NFT galleries launch of main NFT pla
 
 NFTX - first NFTs as indexed funds ? (maybe 2021)
 
-Whale - first social coin to get listed on coin gecko ?
-
-(first gif NFT ?)
+WhaleShark - first social coin to get listed on coin gecko ?
 
 Decentraland - first metaverse NFT fashion show 
 
