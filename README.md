@@ -4,10 +4,10 @@ This website is focused on NFTs evolution and first uses of NFTs in relation to 
 
 Still working on finding:
 
-(first gif NFT by platform?)
-(first video NFT minted by platform ?)
-(first 3d file format support by platform ?)
-(first Poetry as NFT by platform?)
+- (first gif NFT by platform?)
+- (first video NFT minted by platform ?)
+- (first 3d file format support by platform ?)
+- (first Poetry as NFT by platform?)
 
 # 2012 
 
