@@ -18,9 +18,7 @@ Monegraph - Monetized Graphics (NFT could have been called this although NFT is 
 
 # 2015
 
-Counterparty is level 2 'NFT' app on Bitcoin
-
-April 2016 - Spells of Gensis on Counterparty - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
+April 2016 - Spells of Gensis on Counterparty (level 2 'NFT' app on Bitcoin) - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
 
 August 2016 - 'Force of Will' cards on Counterparty - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
 
@@ -28,9 +26,9 @@ August 2016 - 'Force of Will' cards on Counterparty - https://medium.com/@Andrew
 
 October 2016 — first Rare Pepes on Counterparty - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
 
-DJ Pepe - first Audio NFT - https://twitter.com/ScrillaVentura/status/1364966663603552268
+DJ Pepe - first Audio NFT - https://twitter.com/ScrillaVentura/status/1364966663603552268 ? 
 
-Scrilla -  "Can't Smoke A Bitcoin" ?
+RareScrilla.com - first NFT album - https://rarescrilla.bandcamp.com/album/gorilla-glue-mixtape ?
 
 # 2017 
 
