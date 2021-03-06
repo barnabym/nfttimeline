@@ -46,15 +46,19 @@ January 2018 - Rare Art Festival and Auction of Homer Rare Pepe - sold for 38,50
 
 March 2018 - Open Zeppelin - NFT standard - ERC721 full implementation - https://github.com/OpenZeppelin/openzeppelin-contracts/pull/803 
 
+March 2018 - Rare bits - first NFT marketplace ? https://techcrunch.com/2018/04/19/rare-bits-crypto-marketplace/
+
 April 2018 - Cryptovoxels - NFTs can be shown in world (need date for that) ?
 
 July 2018 - The first NFT conference 
 
-
+FireFly - Air-Gap Hardware Wallet for Ethereum emits NFTs
 
 OpenSea, SuperRare.io, Makersplace.com, KnownOrigin.io and loads of other NFT projects
 
 # 2019
+
+( first NFT podcast? maybe @AndrewSteinwold ) ???
 
 April 2019 - Autoglyphs - generative NFT art on blockchain by Larva Labs 
 
