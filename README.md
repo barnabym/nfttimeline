@@ -2,6 +2,13 @@
 
 This website is focused on NFTs evolution and first uses of NFTs in relation to Art and Music. So I'm not going to  mentioning crypto art pioneers like @cryptograffiti, @coin_artist and others unless linked to novel or first time NFT use. The information is evolving and there maybe mistakes as I'm still working on it.
 
+Still working on finding:
+
+(first gif NFT by platform?)
+(first video NFT minted by platform ?)
+(first 3d file format support by platform ?)
+(first Poetry as NFT by platform?)
+
 # 2012 
 
 Colored coins - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
@@ -124,10 +131,6 @@ Decentraland - 100xart show - first NFT metaverse multi gallery artshow
 
 NFT trash art movement - 64 Gallon Toter  - ROBNESS
 
-(first video nft minted by platform ?)
-
-(first 3d file format support by platform ?)
-
 Bronx zoo in cryptovvoxels - first shared land NFT (at least best known) 
 
 WIP - first NFT souvenirs of events in Metaverse
@@ -145,8 +148,6 @@ Cryptomotors - first cross metaverse car NFT
 Matt Kane - first NFT sale at Christies
 
 Hackatao 'Hack the Tao' - first NFT Art as a 3d voxel game
-
-(first Poetry as NFT ?)
 
 Bacca Arts - first graphic novel as NFT
 
