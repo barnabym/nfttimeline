@@ -30,6 +30,8 @@ October 2016 — first Rare Pepes on Counterparty - https://medium.com/@Andrew.S
 
 DJ Pepe - first Audio NFT - https://twitter.com/ScrillaVentura/status/1364966663603552268
 
+Scrilla -  "Can't Smoke A Bitcoin" ?
+
 # 2017 
 
 March 2017 — Rare Pepes on Ethereum - Peperium “decentralized meme marketplace and trading card game (TCG) that allowed anyone to create memes that live eternally on IPFS and Ethereum.”  - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
@@ -71,6 +73,8 @@ August 2019 - clovers.network - first icon NFTs ?
 October 2019 - Rarible NFT Market place
 
 # 2020
+
+Jonathan Mann - @songadaymann - first song NFT on ether blockchain - https://superrare.co/artwork/b-u-i-d-l-871 - https://twitter.com/songadaymann/status/1367873178421321738
 
 89 sec Atomized (2018) by Eve Sussman, The Old Testament by Tommy Hartung. https://snark.art/artworks - Artwork broken into NFTs
 
