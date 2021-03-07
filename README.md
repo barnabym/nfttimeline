@@ -9,7 +9,7 @@ Still working on finding:
 - (first 3d file format support by platform ?)
 - (first Poetry as NFT by platform?)
 
-Please add corrections and additions - [https://forms.gle/VwNCnaWGf4jmQpcHA](here)
+Please add corrections and additions - https://forms.gle/VwNCnaWGf4jmQpcHA
 
 # 2012 
 
