@@ -9,6 +9,8 @@ Still working on finding:
 - (first 3d file format support by platform ?)
 - (first Poetry as NFT by platform?)
 
+Please add corrections and additions here - https://forms.gle/VwNCnaWGf4jmQpcHA
+
 # 2012 
 
 Colored coins - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
