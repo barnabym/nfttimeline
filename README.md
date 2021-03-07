@@ -175,7 +175,7 @@ Lady Pheonix (Lady Phe) - introduces NFTs into clubhouse and coins phrase 'audio
 
 Mark Cuban discovers NFTs 
 
-Linset Lohan and Mark Cuban mint stuff on rarible.com
+Linsey Lohan and Mark Cuban mint stuff on rarible.com
 
 NBA topshots - first FLOW blockchain NFTs
 
