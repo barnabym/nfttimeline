@@ -1,6 +1,6 @@
 ![nft timeline](https://user-images.githubusercontent.com/668471/110278246-cfba0f80-7fce-11eb-93a6-dfb06bc727a1.jpg)
 
-<sub><sup>Photo by Vidar Nordli-Mathisen</sup></sub>
+<sub>Photo by Vidar Nordli-Mathisen</sub>
 
 # NFT (Non Funglible Tokens) Timeline 
 
