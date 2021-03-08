@@ -1,5 +1,7 @@
 ![nft timeline](https://user-images.githubusercontent.com/668471/110278246-cfba0f80-7fce-11eb-93a6-dfb06bc727a1.jpg)
 
+<sub><sup>Photo by Vidar Nordli-Mathisen</sub></sup>
+
 # NFT (Non Funglible Tokens) Timeline 
 
 This website is focused on NFTs evolution and first uses of NFTs in relation to Art and Music. So I'm not going to  mentioning crypto art pioneers like @cryptograffiti, @coin_artist and others unless linked to novel or first time NFT use. The information is evolving and there maybe mistakes as I'm still working on it.
