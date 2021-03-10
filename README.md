@@ -27,6 +27,8 @@ KMC - mccoyspace - first image NFTs - https://twitter.com/mccoyspace/status/1366
 
 Trading card game and meme trading on Counterparty - founded by Robert Dermody, Adam Krellenstein, and Evan Wagner - "a peer-to-peer financial platform and distributed, open-source Internet protocol built on top of the Bitcoin blockchain" - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
 
+First art NFT on Counterparty - mccoyspace - https://twitter.com/mccoyspace/status/1369094372436946949
+
 Monegraph - Monetized Graphics (NFT could have been called this although NFT is a bigger concept as covers more than art) for a created image was assigned a blockchain key and value storable in a NameCoin wallet - https://techcrunch.com/2014/05/09/monegraph/?guccounter=1&guce_referrer=aHR0cHM6Ly90LmNvLw&guce_referrer_sig=AQAAANYmc1eeZjuuRFALotY6wZcKFkEs-MwiLkUbCbYPK8RDUtqNk9HWhd9VH23kcGtEe7ZZujzA6aadvOA2dRwUM2n9lkeOvSzWPH9Z5lFdSXq6pxEbCO6vFl-7-8Nc04TFtruj2FNyM7obRdOWP1_0XgUw8vucvN4N4HuEUw6P4Y9-
 
 # 2015
