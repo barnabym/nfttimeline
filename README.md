@@ -77,7 +77,7 @@ OpenSea, SuperRare.io, Makersplace.com, KnownOrigin.io and loads of other NFT pr
 
 ( first NFT podcast? maybe @AndrewSteinwold ) ???
 
-April 2019 - Autoglyphs - generative NFT art on blockchain by Larva Labs 
+April 2019 - Autoglyphs - generative NFT art on the blockchain by Larva Labs 
 
 April 2019 - Editional - first mobile app for minting NFTs
 
