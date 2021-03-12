@@ -89,6 +89,8 @@ October 2019 - Rarible NFT Market place
 
 # 2020
 
+Skeenee - first burning of IRL artworks and minting as NFTs - https://twitter.com/skeenee_art/status/1370381658713640962
+
 Jonathan Mann - @songadaymann - first song NFT on ether blockchain - https://superrare.co/artwork/b-u-i-d-l-871 - https://twitter.com/songadaymann/status/1367873178421321738
 
 89 sec Atomized (2018) by Eve Sussman on Snark.art - https://snark.art/artworks - Artwork broken into NFTs
