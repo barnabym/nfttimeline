@@ -145,6 +145,10 @@ Decentraland - 100xart show - first NFT metaverse multi gallery artshow
 
 NFT trash art movement - 64 Gallon Toter  - ROBNESS
 
+Max Osiris - first NFT artist to be banned from multiple NFT platforms :) and to mint a graph as NFT (his social currency crashing to zero)
+
+March 2020 - ROBNESS and Max Osiris - first NFT collab - https://opensea.io/assets/0x3a3b0dbdc0f6bc77421dcd2f55cfa087b0db9aec/345
+
 Bronx zoo in cryptovvoxels - first shared land NFT (at least best known) 
 
 WIP - first NFT souvenirs of events in Metaverse
@@ -201,7 +205,7 @@ Hash Masks - first dynamically nameable artworks on blockchain
 
 Beeple artwork resells for 6.6 million
 
-Beeple Christies Auction - predicted to be most expensive NFT - https://www.christies.com/features/Monumental-collage-by-Beeple-is-first-purely-digital-artwork-NFT-to-come-to-auction-11510-7.aspx
+Beeple Christies Auction - the most expensive NFT $69.3 million sold - https://www.christies.com/features/Monumental-collage-by-Beeple-is-first-purely-digital-artwork-NFT-to-come-to-auction-11510-7.aspx
 
 3Lau - first music artist albums NFT sells for 11 million  - https://nft.3lau.com/#/auction
 
