@@ -53,7 +53,11 @@ June 2017 — Cryptopunks - Larva Labs (John Watkinson and Matt Hall) - https://
 
 June 17, 2020 - Dada.nyc - "DADA’s radical separation of art from the market includes a new form of exchanging value in which tokenized digital drawings (NFTs) are the medium of exchange" - https://twitter.com/PowerDada/status/1273277412403548160 - 
 
-October 2017 — CryptoKitties - Dapper Labs - https://ostachowski.com/about/what-is-crypto-art/history-of-crypto-art/
+Crypto Kitties, Nov 23rd 2017: - Dapper Labs - https://ostachowski.com/about/what-is-crypto-art/history-of-crypto-art/
+https://etherscan.io/tx/0x44fd65a70b4ac20e6b59c10692b5d411c636a318afe33362d0c1214a2ede4e66
+
+Crypto Cats, Dec 24th 2017:
+https://etherscan.io/tx/0xa38a7f8bd386cca288af2fe3d15f7b0d91d52a849e81e18022ad4a901816e2a5
 
 August 2017 - Decentraland - sells land tokens? (not NFT but where NFTs will be used subsequently)
 
