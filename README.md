@@ -62,6 +62,8 @@ Dec 24th 2017 - Crypto Cats - https://etherscan.io/tx/0xa38a7f8bd386cca288af2fe3
 
 August 2017 - Decentraland - sells land tokens? (not NFT but where NFTs will be used subsequently)
 
+December 28th, 2017 - OpenSea - of the first decentralized exchange and marketplace for digital collectibles.
+
 # 2018
 
 January 2018 - Rare Art Festival and Auction of Homer Rare Pepe - sold for 38,500 dollars - first major NFT sale - https://www.vice.com/en/article/ev57p4/i-went-to-the-first-live-auction-for-rare-pepes-on-the-blockchain
@@ -70,13 +72,13 @@ March 2018 - Open Zeppelin - NFT standard - ERC721 full implementation - https:/
 
 March 2018 - Rare bits - first NFT marketplace ? https://techcrunch.com/2018/04/19/rare-bits-crypto-marketplace/
 
+SuperRare.io, Makersplace.com, KnownOrigin.io and loads of other NFT projects
+
 April 2018 - Cryptovoxels - NFTs can be shown in world (need date for that) ?
 
 July 2018 - The first NFT conference 
 
 FireFly - Air-Gap Hardware Wallet for Ethereum emits NFTs
-
-OpenSea, SuperRare.io, Makersplace.com, KnownOrigin.io and loads of other NFT projects
 
 # 2019
 
