@@ -220,7 +220,7 @@ Paras.id - NFTs on near blockchain
 
 Murall - https://murall.art/ - first collabrative mural NFT platform
 
-March 2020 - Beeple Christies Auction - the most expensive NFT $69.3 million sold - https://www.christies.com/features/Monumental-collage-by-Beeple-is-first-purely-digital-artwork-NFT-to-come-to-auction-11510-7.aspx
+# March 2020 - Beeple Christies Auction - the most expensive NFT $69.3 million sold - https://www.christies.com/features/Monumental-collage-by-Beeple-is-first-purely-digital-artwork-NFT-to-come-to-auction-11510-7.aspx
 
 March 2020 - Hackatao - first NFT to be listed on the Vastari platform for Galleries and Museums - https://artdaily.com/news/133833/First-NFT-work-registered-to-the-Vastari-exhibition-platform-#.YE28kbT7R_m
 
