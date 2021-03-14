@@ -94,6 +94,8 @@ October 2019 - Rarible NFT Market place
 
 # 2020
 
+February 2020 - MagNFT - The NFT Art Magazine - first NFT magazine ?
+
 Skeenee - first burning of IRL artworks and minting as NFTs - https://twitter.com/skeenee_art/status/1370381658713640962
 
 Jonathan Mann - @songadaymann - first song NFT on ether blockchain - https://superrare.co/artwork/b-u-i-d-l-871 - https://twitter.com/songadaymann/status/1367873178421321738
