@@ -74,6 +74,14 @@ March 2018 - Rare bits - first NFT marketplace ? https://techcrunch.com/2018/04/
 
 SuperRare.io, Makersplace.com, KnownOrigin.io and loads of other NFT projects
 
+April 22, 2018 - JOY - first 3d art on Blockchain -  https://twitter.com/Evilvoxels/status/1371115258950135819
+
+JOY - first crypto artist creating his own NFT contract
+
+JOY - first making music and video accompaniments to his NFT art
+
+JOY - and first to hard fork his NFT contract, into its current form: https://etherscan.io/address/0x6c7b6cc55d4098400ac787c8793205d3e86c37c9 
+
 April 2018 - Cryptovoxels - NFTs can be shown in world (need date for that) ?
 
 July 2018 - The first NFT conference 
