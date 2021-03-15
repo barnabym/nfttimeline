@@ -49,6 +49,8 @@ DJ Pepe - RareScrilla.com @ScrillaVentura - first Audio NFT - https://twitter.co
 
 March 2017 — Rare Pepes on Ethereum - Peperium “decentralized meme marketplace and trading card game (TCG) that allowed anyone to create memes that live eternally on IPFS and Ethereum.”  - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
 
+May 2017 - Curio cards minted tokens on Ethereum
+
 June 2017 — Cryptopunks - Larva Labs (John Watkinson and Matt Hall) - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
 
 June 17, 2020 - Dada.nyc - "Introducing Creeps & Weirdos, our first collection of limited-edition digital art for sale on the #Ethereum #Blockchain. #HappyHalloween!" - https://twitter.com/PowerDada/status/925392367510835201 - "DADA’s radical separation of art from the market includes a new form of exchanging value in which tokenized digital drawings (NFTs) are the medium of exchange" - https://twitter.com/PowerDada/status/1273277412403548160 - first to add artist royalties to NFT sales https://twitter.com/PowerDada/status/1371175371643699203
