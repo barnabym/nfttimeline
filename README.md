@@ -115,7 +115,7 @@ January 19th 2020 - ChainFaces - "an on-chain art contract that generates faces 
 
 January 2020 - first NFTs for the AI art collectors of the future - https://opensea.io/collection/bitsforai
 
-February 7th 2020 - Avastars - onchain avatars
+February 7th 2020 - Avastars - onchain NFT images of avatars
 
 February 2020 - MagNFT - The NFT Art Magazine - first NFT magazine ?
 
@@ -145,7 +145,7 @@ August 2020 - Infinft - first fully onchain minting of NFTs (the artwork files a
 
 Async.art - the world's first programmable artwork, First Supper NFT
 
-Spaced Painter - first 4K video NFT 
+Spaced Painter - first 4K video NFT ???
 
 Pranksy Land - first NFT land and NFT art sale combo
 
