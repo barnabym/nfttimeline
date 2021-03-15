@@ -66,7 +66,7 @@ December 28th, 2017 - OpenSea - of the first decentralized exchange and marketpl
 
 # 2018
 
-January 2018 - Rare Art Festival and Auction of Homer Rare Pepe - sold for 38,500 dollars - first major NFT sale - https://www.vice.com/en/article/ev57p4/i-went-to-the-first-live-auction-for-rare-pepes-on-the-blockchain
+January 2018 - Rare Art Festival and Auction of Homer Rare Pepe - sold for 38,500 dollars - first major NFT sale - https://www.vice.com/en/article/ev57p4/i-went-to-the-first-live-auction-for-rare-pepes-on-the-blockchain - https://raredigitalartfestival.splashthat.com/
 
 March 2018 - Open Zeppelin - NFT standard - ERC721 full implementation - https://github.com/OpenZeppelin/openzeppelin-contracts/pull/803 
 
