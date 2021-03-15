@@ -100,7 +100,20 @@ August 2019 - clovers.network - first icon NFTs ?
 
 October 2019 - Rarible NFT Market place
 
+December 7th 2019 - first NFT report - https://niftyreport.substack.com/
+
+
 # 2020
+
+January 12th 2020 - Words - onchain words as NFT - "new words are minted by concatenating (combining) two existing words" - https://niftyreport.substack.com/
+
+January 14th 2020  - the first math-based pixel art was created on onchain as NFT - https://opensea.io/assets/0x6b4fccdd888bb6fd3934a9e49ef64dfd2c0d8e6d/25882832319781335299281632399333714574812225552588534835121392925540352
+
+January 2020  - the first math-based RGB tokens - https://opensea.io/assets/rgb
+
+January 19th 2020 - ChainFaces - "an on-chain art contract that generates faces from a limited number of characters" -  https://niftyreport.substack.com/
+
+February 7th 2020 - Avastars - onchain avatars
 
 February 2020 - MagNFT - The NFT Art Magazine - first NFT magazine ?
 
