@@ -64,7 +64,7 @@ Dec 24th 2017 - Crypto Cats - https://etherscan.io/tx/0xa38a7f8bd386cca288af2fe3
 
 August 2017 - Decentraland - sells land tokens? (not NFT but where NFTs will be used subsequently)
 
-December 28th, 2017 - OpenSea - one of the first decentralized exchange and marketplace for digital collectibles.
+December 28th, 2017 - OpenSea - one of the first decentralized exchange and marketplace for digital collectibles - https://twitter.com/opensea/status/946531137974923271?s=20
 
 # 2018
 
