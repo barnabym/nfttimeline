@@ -238,6 +238,9 @@ March 2020 - Hackatao - first NFT to be listed on the Vastari platform for Galle
 
 Most expensive NFT Tweet - by Jack Dorsey - https://v.cent.co/tweet/20
 
+January 2021 - The first Neurofeedback NFT (instructions in locked content)
+
+
 # References
 
 https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
