@@ -70,9 +70,7 @@ December 28th, 2017 - OpenSea - one of the first decentralized exchange and mark
 
 # 2018
 
-January 2018 - Rare Art Festival 
-
-January 2018 - Dada.nyc - launches 'Introducing Creeps & Weirdos' - https://link.medium.com/oUqljLC0Deb
+January 2018 - Rare Art Festival - https://link.medium.com/oUqljLC0Deb
 
 January 2018 - Auction of Homer Rare Pepe at Rare Art Festival - sold for 38,500 dollars - first major NFT sale - https://www.vice.com/en/article/ev57p4/i-went-to-the-first-live-auction-for-rare-pepes-on-the-blockchain - https://raredigitalartfestival.splashthat.com/
 
