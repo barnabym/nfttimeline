@@ -90,6 +90,8 @@ April 2018 - Cryptovoxels - NFTs can be shown in world (need date for that) ?
 
 July 2018 - The first NFT conference 
 
+August 2018 - Ujo Music (experiments in July 2017) - (needs more detail) - https://blog.ujomusic.com/rare-patrons-exploring-radical-markets-patronage-collecting-8c7ba243e81d
+
 FireFly - Air-Gap Hardware Wallet for Ethereum emits NFTs
 
 # 2019
