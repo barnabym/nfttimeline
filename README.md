@@ -49,7 +49,7 @@ DJ Pepe - RareScrilla.com @ScrillaVentura - first Audio NFT - https://twitter.co
 
 March 2017 — Rare Pepes on Ethereum - Peperium “decentralized meme marketplace and trading card game (TCG) that allowed anyone to create memes that live eternally on IPFS and Ethereum.”  - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
 
-May 2017 - Curio cards minted tokens on Ethereum
+May 2017 - Curio cards minted tokens on Ethereum - https://news.bitcoin.com/blockchain-collectibles-curio-cards/
 
 June 2017 — Cryptopunks - Larva Labs (John Watkinson and Matt Hall) - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
 
