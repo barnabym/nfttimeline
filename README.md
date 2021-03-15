@@ -113,6 +113,8 @@ January 2020  - the first math-based RGB tokens - https://opensea.io/assets/rgb
 
 January 19th 2020 - ChainFaces - "an on-chain art contract that generates faces from a limited number of characters" -  https://niftyreport.substack.com/
 
+January 2020 - first NFTs for the AI art collectors of the future - https://opensea.io/collection/bitsforai
+
 February 7th 2020 - Avastars - onchain avatars
 
 February 2020 - MagNFT - The NFT Art Magazine - first NFT magazine ?
