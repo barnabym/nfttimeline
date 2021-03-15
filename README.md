@@ -161,7 +161,7 @@ Pranksy Land - first NFT land and NFT art sale combo
 
 March 2020 - Nifty Gateway - first NFT marketplace allowing fiat purchases (not sure about this?)
 
-August 2019 - Rendar Gallery - first street art NFT gallery opening in a Metaverse
+August 2020 - Rendar Gallery - first street art NFT gallery opening in a Metaverse
 
 Artblocks.io - first generative art code on blockchain (not sure if thats right)
 
