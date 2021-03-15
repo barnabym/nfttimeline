@@ -51,7 +51,7 @@ March 2017 — Rare Pepes on Ethereum - Peperium “decentralized meme marketpla
 
 June 2017 — Cryptopunks - Larva Labs (John Watkinson and Matt Hall) - https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
 
-June 17, 2020 - Dada.nyc - "DADA’s radical separation of art from the market includes a new form of exchanging value in which tokenized digital drawings (NFTs) are the medium of exchange" - https://twitter.com/PowerDada/status/1273277412403548160 - first to add artist royalties to NFT sales https://twitter.com/PowerDada/status/1371175371643699203
+June 17, 2020 - Dada.nyc - https://twitter.com/PowerDada/status/925392367510835201 - "DADA’s radical separation of art from the market includes a new form of exchanging value in which tokenized digital drawings (NFTs) are the medium of exchange" - https://twitter.com/PowerDada/status/1273277412403548160 - first to add artist royalties to NFT sales https://twitter.com/PowerDada/status/1371175371643699203
 
 Aug 09, 2017 - Mooncats - first NFT cats? - https://twitter.com/NFTfinds/status/1370457484096278529
 
