@@ -60,7 +60,9 @@ Aug 09, 2017 - Mooncats - first NFT cats? - https://twitter.com/NFTfinds/status/
 Nov 23rd 2017 - Crypto Kitties - Dapper Labs - https://ostachowski.com/about/what-is-crypto-art/history-of-crypto-art/
 https://etherscan.io/tx/0x44fd65a70b4ac20e6b59c10692b5d411c636a318afe33362d0c1214a2ede4e66
 
-Kitty Hats - https://twitter.com/KittyHats_CK/status/973745119164813312
+Kitty Hats - https://twitter.com/KittyHats_CK/status/973745119164813312 
+
+CryptoKitties Collect CryptoArt - first NFT cats to collect art :) - https://powerdada.medium.com/cryptokitties-collect-cryptoart-925b2b01879e
 
 Dec 24th 2017 - Crypto Cats - https://etherscan.io/tx/0xa38a7f8bd386cca288af2fe3d15f7b0d91d52a849e81e18022ad4a901816e2a5
 
