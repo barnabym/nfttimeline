@@ -256,7 +256,7 @@ Most expensive NFT Tweet - by Jack Dorsey - https://v.cent.co/tweet/20
 January 2021 - The first Neurofeedback NFT (instructions in locked content)
 
 
-# References
+# References (please see inline references as well)
 
 https://medium.com/@Andrew.Steinwold/the-history-of-non-fungible-tokens-nfts-f362ca57ae10
 
